@@ -29,4 +29,4 @@ plt.plot()
 plt.imshow(combined[3])
 plt.show()
 
-skio.imsave("funny_trump.jpg", sk.img_as_ubyte(combined[3]))
+skio.imsave("res/funny_trump.jpg", sk.img_as_ubyte(combined[3]))

@@ -90,15 +90,16 @@ def align_images(im1, im2):
 
 
 if __name__ == "__main__":
-    img1 = sk.img_as_float(skio.imread("trump.jpg"))
-    img2 = sk.img_as_float(skio.imread("funny_face.jpg"))
-    img1, img2 = align_images(img1, img2)
+    pass
+    # img1 = sk.img_as_float(skio.imread("trump.jpg"))
+    # img2 = sk.img_as_float(skio.imread("funny_face.jpg"))
+    # img1, img2 = align_images(img1, img2)
 
-    plt.subplot(1, 2, 1)
-    plt.imshow(img1)
-    plt.subplot(1, 2, 2)
-    plt.imshow(img2)
-    plt.show()
+    # plt.subplot(1, 2, 1)
+    # plt.imshow(img1)
+    # plt.subplot(1, 2, 2)
+    # plt.imshow(img2)
+    # plt.show()
 
-    skio.imsave("trump_1.jpg", sk.img_as_ubyte(img1))
-    skio.imsave("funny_face_1.jpg", sk.img_as_ubyte(img2))
+    # skio.imsave("trump_1.jpg", sk.img_as_ubyte(img1))
+    # skio.imsave("funny_face_1.jpg", sk.img_as_ubyte(img2))

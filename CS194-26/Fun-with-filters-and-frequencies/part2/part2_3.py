@@ -111,4 +111,4 @@ if __name__ == "__main__":
     plt.show()
 
     # save
-    skio.imsave("oraple.jpeg", sk.img_as_ubyte(combined[-1]))
+    skio.imsave("res/oraple.jpeg", sk.img_as_ubyte(combined[-1]))

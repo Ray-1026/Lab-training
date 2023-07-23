@@ -88,5 +88,5 @@ skio.show()
 
 
 # save hybrid images
-skio.imsave("hybrid_1.jpg", sk.img_as_ubyte(hybrid))
-skio.imsave("hybrid_2.jpg", sk.img_as_ubyte(hybrid_2))
+skio.imsave("res/hybrid_1.jpg", sk.img_as_ubyte(hybrid))
+skio.imsave("res/hybrid_2.jpg", sk.img_as_ubyte(hybrid_2))
