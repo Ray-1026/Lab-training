@@ -48,10 +48,10 @@ def blendImage(canvas_1, canvas_2, canvas_full, mask_full, mask_1, mask_2, overl
 
     plt.subplot(1, 2, 1)
     plt.imshow(canvas_full)
-    plt.title("not use Gaussian filter")
+    plt.title("unfiltered")
     plt.subplot(1, 2, 2)
     plt.imshow(new_canvas)
-    plt.title("use Gaussian filter")
+    plt.title("filtered")
     plt.show()
 
     return new_canvas
