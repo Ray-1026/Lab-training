@@ -3,8 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# folders
-
 # C extensions
 *.so
 
@@ -160,3 +158,9 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# user-defined
+CS194-26/Facial-keypoint-detection-with-neural-networks/imm_face_db/
+CS194-26/Facial-keypoint-detection-with-neural-networks/ibug_300W_large_face_landmark_dataset/
+CS194-26/Facial-keypoint-detection-with-neural-networks/kaggle.ipynb
+CS194-26/Facial-keypoint-detection-with-neural-networks/test.py
