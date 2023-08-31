@@ -96,7 +96,7 @@ y'
 \end{bmatrix}
 $$
 
-There are 8 unknowns, we need at least 8 equations, that is, we need at least 8 points to solve $Ah=b$ .
+There are 8 unknowns, we need at least 8 equations, that is, we need at least 4 points to solve $Ah=b$ .
 To solve $Ah=b$, we use least-squares:
 
 $$min \begin{Vmatrix} Ah-b \end{Vmatrix}^2$$
