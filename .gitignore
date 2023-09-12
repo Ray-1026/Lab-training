@@ -177,5 +177,6 @@ Machine-Learning/Image-classification/test.py
 Machine-Learning/Image-classification/resnet_best.ckpt
 Machine-Learning/Image-classification/sample_log.txt
 
-Machine-Learning/Diffusion-model
 Machine-Learning/Diffusion-model/submission
+Machine-Learning/Diffusion-model/show.py
+Machine-Learning/Diffusion-model/submission.tgz
