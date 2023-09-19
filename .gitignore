@@ -165,6 +165,7 @@ CS194-26/Facial-keypoint-detection-with-neural-networks/ibug_300W_large_face_lan
 CS194-26/Facial-keypoint-detection-with-neural-networks/npy/
 CS194-26/Facial-keypoint-detection-with-neural-networks/heatmap.ipynb
 CS194-26/Facial-keypoint-detection-with-neural-networks/test.py
+CS194-26/Facial-keypoint-detection-with-neural-networks/ibug_300W_large_face_landmark_dataset.zip
 
 Machine-Learning/Image-classification/ensemble
 Machine-Learning/Image-classification/food-11
@@ -180,3 +181,5 @@ Machine-Learning/Image-classification/sample_log.txt
 Machine-Learning/Diffusion-model/submission
 Machine-Learning/Diffusion-model/show.py
 Machine-Learning/Diffusion-model/submission.tgz
+Machine-Learning/Anomaly-detection/data/
+Machine-Learning/Anomaly-detection/data.zip
