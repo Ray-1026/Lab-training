@@ -163,7 +163,6 @@ cython_debug/
 CS194-26/Facial-keypoint-detection-with-neural-networks/imm_face_db/
 CS194-26/Facial-keypoint-detection-with-neural-networks/ibug_300W_large_face_landmark_dataset/
 CS194-26/Facial-keypoint-detection-with-neural-networks/npy/
-CS194-26/Facial-keypoint-detection-with-neural-networks/heatmap.ipynb
 CS194-26/Facial-keypoint-detection-with-neural-networks/test.py
 CS194-26/Facial-keypoint-detection-with-neural-networks/ibug_300W_large_face_landmark_dataset.zip
 
