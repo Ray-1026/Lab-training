@@ -180,5 +180,13 @@ Machine-Learning/Image-classification/sample_log.txt
 Machine-Learning/Diffusion-model/submission
 Machine-Learning/Diffusion-model/show.py
 Machine-Learning/Diffusion-model/submission.tgz
+
 Machine-Learning/Anomaly-detection/data/
 Machine-Learning/Anomaly-detection/data.zip
+Machine-Learning/Anomaly-detection/test.py
+Machine-Learning/Anomaly-detection/Boss.ipynb
+
+Machine-Learning/Adversarial-attack/ifgsm/
+Machine-Learning/Adversarial-attack/nifgsm/
+Machine-Learning/Adversarial-attack/data.zip
+Machine-Learning/Adversarial-attack/data/
