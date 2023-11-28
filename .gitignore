@@ -190,3 +190,9 @@ Machine-Learning/Adversarial-attack/ifgsm/
 Machine-Learning/Adversarial-attack/nifgsm/
 Machine-Learning/Adversarial-attack/data.zip
 Machine-Learning/Adversarial-attack/data/
+
+Machine-Learning/Adaptation/real_or_drawing/
+Machine-Learning/Adaptation/weights/*.bin
+Machine-Learning/Adaptation/*.npy
+Machine-Learning/Adaptation/*.pth
+Machine-Learning/Adaptation/*.csv
